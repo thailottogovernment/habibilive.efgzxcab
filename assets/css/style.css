@@ -646,13 +646,12 @@ td {
 .regEffect {}
 
 .regEffect .regImg {
-    position: absolute;
-    bottom: -46%;
-    right: 5%;
-    height: 200px;
-    width: 160px;
+	position: absolute;
+	bottom: -35%;
+	right: 31%;
+	height: 200px;
+	width: 160px;
 }
-
 .mainMemberList {
     margin-top: 935px;
 }
