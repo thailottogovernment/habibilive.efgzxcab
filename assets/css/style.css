@@ -469,7 +469,7 @@ td {
 .form_area {
     width: 100%;
     height: 100%;
-    position: absolute;
+     position: relative;
     background: linear-gradient(45deg, #F17C58, #E94584, #24AADB, #27DBB1, #FFDC18, #FF3706);
     background-size: 600% 100%;
     animation: gradient 16s linear infinite;
@@ -489,7 +489,7 @@ td {
 .bgColor {
     width: 100%;
     height: 100%;
-    position: absolute;
+     position: relative;
     background: linear-gradient(45deg, #F17C58, #E94584, #24AADB, #27DBB1, #FFDC18, #FF3706);
     background-size: 600% 100%;
     animation: gradient 16s linear infinite;
@@ -654,7 +654,7 @@ td {
 }
 
 .mainMemberList {
-	margin-top: 935px;
+	margin-top: 0px;
 }
 
 .textAnimation {
