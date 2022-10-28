@@ -610,7 +610,7 @@ td {
 
 .memberList p {
     font-size: 20px;
-    color: #fff;
+    color: #000;
     font-weight: 700;
     padding-bottom: 0px;
 }
@@ -1006,6 +1006,7 @@ td {
     }
 }
 
+/*
 .memberList {
     margin: 0;
     width: 100%;
@@ -1028,3 +1029,4 @@ td {
         background-position: 0% 50%;
     }
 }
+*/
