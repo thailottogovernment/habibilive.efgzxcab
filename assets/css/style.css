@@ -441,15 +441,15 @@ td {
 .form_group {}
 
 .form_group label {
-    font-size: 31px;
-    font-weight: 400;
-    padding-top: 15px;
-    color: #ffffff;
-    display: block;
-    width: 90%;
-    padding: 20px 10px;
-    font-weight: 700;
-    padding-right: 20px;
+	font-size: 31px;
+	font-weight: 400;
+	padding-top: 15px;
+	color: #ffffff;
+	display: block;
+	width: 90%;
+	padding: 5px 10px;
+	font-weight: 700;
+	padding-right: 20px;
 }
 
 .form_group input {
@@ -648,13 +648,13 @@ td {
 .regEffect .regImg {
     position: absolute;
     bottom: -46%;
-    right: 0%;
+    right: 5%;
     height: 200px;
-    width: 175px;
+    width: 160px;
 }
 
 .mainMemberList {
-    margin-top: 1031px;
+	margin-top: 935px;
 }
 
 .textAnimation {
@@ -946,7 +946,7 @@ td {
     }
 
     80% {
-        color: #ffffff;
+          color: #1f03f8;
     }
 
     100% {
@@ -972,7 +972,7 @@ td {
     }
 
     80% {
-        color: #ffffff;
+           color: #1f03f8;
     }
 
     100% {
@@ -998,7 +998,7 @@ td {
     }
 
     80% {
-        color: #ffffff;
+        color: #1f03f8;
     }
 
     100% {
